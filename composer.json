@@ -1,0 +1,12 @@
+{
+    "name": "chris/comp",
+    "require": {
+        "nesbot/carbon": "^2.16"
+    },
+    "authors": [
+        {
+            "name": "Chris Cooper",
+            "email": "chriscooper207@gmail.com"
+        }
+    ]
+}
